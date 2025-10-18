@@ -1,4 +1,4 @@
-import { Button } from "@/frontend/components/ui/button"
+import { Button } from "@/components/ui/button"
 import { ArrowRight, Sparkles } from "lucide-react"
 
 export function Hero() {

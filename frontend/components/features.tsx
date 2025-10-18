@@ -1,4 +1,4 @@
-import { Card, CardContent } from "@/frontend/components/ui/card"
+import { Card, CardContent } from "@/components/ui/card"
 import { FileText, TrendingUp, Sparkles, Receipt, PiggyBank, BarChart3 } from "lucide-react"
 
 const features = [
